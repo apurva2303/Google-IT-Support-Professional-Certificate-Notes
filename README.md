@@ -8,4 +8,4 @@ The content of this repo is for reference purpose only for people enrolled in th
 
 ## Accessing the contents
 
-The notes can be accessed by anyone in a pretty straightforward manner. It is recommended to be viewed as a markdown (.md) file for better accessiblity. Clicking on the ' <details><summary> </summary></details> ' icon expands the topic that you need to access.
+The notes can be accessed by anyone in a pretty straightforward manner. It is recommended to be viewed as a markdown (.md) file for better accessiblity. Clicking on the '>' icon expands the topic that you need to access.
