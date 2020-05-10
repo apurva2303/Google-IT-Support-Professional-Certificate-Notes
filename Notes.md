@@ -17,6 +17,7 @@
      <details><summary> From Abacus to Analytical Engine </summary>   
      A computer is a device that stores and processes data by performing calculations. Before we had actual computer devices, the term computer was used to refer to someone who actually did the calculation. 
      
+     
      Do you know what an abacus is?
      <br>
      It looks like a wooden toy that a child would play with, but it's actually one of the earliest known computers. It was invented in 500 BC to count large numbers. While we have calculators like the old reliable TI-89s or the ones in our computers, abacuses actually are still used today.
