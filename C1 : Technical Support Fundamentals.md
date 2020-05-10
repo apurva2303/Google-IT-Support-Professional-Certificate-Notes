@@ -1,3 +1,6 @@
+# Google IT Support Professional Certificate Notes
+   
+
 Week 1 > Introduction to IT Support > What is IT? >
   IT is essentially the use of digital technology, like computers and the internet, to store and process data into useful information. 
   The IT industry refers to the entire scope of all the jobs and resources that are related to computing technologies within society, 
