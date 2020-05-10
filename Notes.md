@@ -8,17 +8,19 @@
 - ## **Introduction to IT Support**
 
      <details><summary> What is IT? </summary>    
-     <br><br>
-     IT is essentially the use of digital technology, like computers and the internet, to store and process data into useful information. The IT industry refers to the entire scope of all the jobs and resources that are related to computing technologies within society, and there are a lot of different types of jobs in this field, from network engineers who ensure computers can communicate with each other, to hardware technicians who replace and repair components, to desktop support personnel who make sure that end users can use their software properly.   </details>
+     <br>
+     IT is essentially the use of digital technology, like computers and the internet, to store and process data into useful information. The IT industry refers to the entire scope of all the jobs and resources that are related to computing technologies within society, and there are a lot of different types of jobs in this field, from network engineers who ensure computers can communicate with each other, to hardware technicians who replace and repair components, to desktop support personnel who make sure that end users can use their software properly.   
+     </details>
 
      <details><summary> Introduction to IT Support </summary>   
-     <br><br>
-     An IT support specialist makes sure that an organization's technological equipment is running smoothly. This includes managing, installing, maintaining, troubleshooting and configuring office and computing equipment.  </details>
+     <br>
+     An IT support specialist makes sure that an organization's technological equipment is running smoothly. This includes managing, installing, maintaining, troubleshooting and configuring office and computing equipment.  
+     </details>
 
 - ## **History of Computing**
 
      <details><summary> From Abacus to Analytical Engine </summary>   
-     <br><br>
+     <br>
      A computer is a device that stores and processes data by performing calculations. Before we had actual computer devices, the term computer was used to refer to someone who actually did the calculation.      
      <br><br>
      Do you know what an abacus is?
@@ -34,6 +36,7 @@
      Let's fast forward a few decades and meet a man by the name of Charles babbage. Babbage was a gifted engineer who developed a series of machines that are now known as the greatest breakthrough on our way to the modern computer. He built what was called a difference engine. It was a very sophisticated version of some of the mechanical calculators we were just talking about. It could perform fairly complicated mathematical operations but not much else. Babbage's follow up to the difference engine was a machine he called the Analytical Engine. He was inspired by Jacquard's use of punch cards to automatically perform calculations instead of manually entering them by hand. Babbage used punch cards in his Analytical engine to allow people to predefine a series of calculations they wanted to perform. As impressive as this achievement was, the Analytical engine was still just a very advanced mechanical calculator.
      <br><br>
      It took the powerful insights of a mathematician named Ada Lovelace to realize the true potential of the analytical engine. She was the first person to recognize that the machine could be used for more than pure calculations. She developed the first algorithm for the engine. It was the very first example of computer programming. An algorithm is just a series of steps that solves specific problems. Because of Lovelace's discovery that algorithms could be programmed into the Analytical engine, it became the very first general purpose computing machine in history, and a great example that women have had some of the most valuable minds in technology since the 1800s.
+     </details>
      
      
      
