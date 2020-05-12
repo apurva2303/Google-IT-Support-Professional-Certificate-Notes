@@ -38,7 +38,9 @@
      It took the powerful insights of a mathematician named Ada Lovelace to realize the true potential of the analytical engine. She was the first person to recognize that the machine could be used for more than pure calculations. She developed the first algorithm for the engine. It was the very first example of computer programming. An algorithm is just a series of steps that solves specific problems. Because of Lovelace's discovery that algorithms could be programmed into the Analytical engine, it became the very first general purpose computing machine in history, and a great example that women have had some of the most valuable minds in technology since the 1800s.
      </details>
      
-     
+---
+
+## Week2
      
      
      <br><br><br><br><br><br><br><br><br><br><br>
