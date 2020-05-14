@@ -113,28 +113,39 @@
      <details><summary> Introduction to Computer Hardware </summary>
      <br>
      Desktops are just computers that can fit on or under our desks. It has a monitor, a keyboard, a mouse, and a desktop(the CPU cabinet). Sometimes you might even add a webcam, speakers, or a printer set up. We'll call these physical components, hardware. Let's take a look at the back of the computer.
-     
-     <img src="https://github.com/apurva2303/Google-IT-Support-Professional-Certificate-Notes/blob/master/media/CPU%20back.png?raw=true>
-
+     <br><br>
+     <img src="https://github.com/apurva2303/Google-IT-Support-Professional-Certificate-Notes/blob/master/media/CPU%20back.png?raw=true">
+     <br><br>
+     You can see common connectors, the power outlet, and the common ports. Ports are connection points that we can connect devices to that extend the functionality of our computer. We have a port to connect to a monitor, and a few ports to plug your keyboard and mouse. There's another important one for our network connection.
+     <br><br>
+     Inside the desktop is a CPU or central processing unit, which is covered by a heat sink. The CPU does all the calculations and data processing. It communicates pretty heavily RAM, or Random Access Memory. RAM is our computer's short-term memory. We use this component when we want to store data temporarily. Like let's say, you're typing something into a chat or a piece of text in a word processor. This information is stored in the RAM. When we want to store anything in long-term memory, we use the hard drive. The hard drive holds all of our data, which can include music, pictures, applications.
+     <br>
+     The motherboard holds everything in place and lets our components communicate with each other. It's the foundation of our computer. You can think of the motherboard as the body or circulatory system of the computer that connects all the pieces together. The last component we'll talk about is our power supply, which converts electricity from our wall outlet onto a format that our computer can use.
      </details>
-<><><><><><><><><>
-     You can see common connectors, the power outlet, and the common ports. Ports are connection points that we can connect devices to that extend the functionality of our computer. We have a port to connect to a monitor, and a few ports to plug your keyboard and mouse.
-Start transcript at 1 minute 35 seconds1:35
-There's another important one here for our network connection.
-Start transcript at 1 minute 40 seconds1:40
-With just these ports, we're able to have the basic functionality to browse the web and much more. Things look pretty similar in a laptop.
-Start transcript at 1 minute 48 seconds1:48
-Here are some of the same ports.
-Start transcript at 1 minute 52 seconds1:52
-A built-in monitor, And a keyboard.
-Start transcript at 1 minute 58 seconds1:58
-There are also physical components inside the laptop case that are hidden for portability. Once you figure out how one computer works, you can figure out how any other computer works. Okay, this is my favorite part. Let's open up this desktop and take a deeper look. Let me first clean up my desk.
-Start transcript at 2 minutes 22 seconds2:22
-Get ready for it.
-Start transcript at 2 minutes 25 seconds2:25
-Whoa, it looks pretty complicated, but that's okay. We'll take you through it. Let's start with a quick tour. Then we'll dive deeper into each of these parts in the next lesson. Right here, this component, it's a CPU or central processing unit, which is covered by this heat sink. You could think of the CPU as the brain of our computer. The CPU does all the calculations and data processing. It communicates pretty heavily with this component right here, RAM or Random Access Memory. RAM is our computer's short-term memory. We use this component when we want to store data temporarily. Like let's say, you're typing something into a chat or a piece of text in a word processor. This information is stored in the RAM. Don't worry, we'll cram in more details on RAM in the later lesson. When we want to store anything in long-term memory, we use this component here, the hard drive. The hard drive holds all of our data, which can include music, pictures, applications. Let me show you something else interesting. Have you noticed this large slab here? This is our motherboard.
-Start transcript at 3 minutes 38 seconds3:38
-It holds everything in place and lets our components communicate with each other. It's the foundation of our computer. You can think of the motherboard as the body or circulatory system of the computer that connects all the pieces together. The last component we'll talk about is our power supply, which converts electricity from our wall outlet onto a format that our computer can use. You know what's interesting? All these components make up most computers, even a mobile phone. While it might look very different from your laptop, a mobile phone just uses a smaller version of the hardware that we saw in the desktop and laptop today. So now that we've covered the basic anatomy of the computer, we'll go over each of these components in depths in the next few lessons. Understanding how computer hardware works is a really helpful skill set in IT support, since an IT department maintains the hardware that a company uses. A solid understanding of these computer internals will come in handy when troubleshooting hardware related problems, and taking things apart to see how they work is just super fine.
+     
+     <deatils><summary> Programs and Hardware </summary>
+     Programs are basic instructions that tell the computer what to do. We technically store programs on durable media like hard drives. You can think of programs like cooking recipes. We get these recipes all stored together in a cook book just like apps stored in a hard drive. Now we want to make a ton of food. So we hire a chef to follow our recipes and whip up something good. The faster our chef works, the more food she'll prepare. The chef is our CPU, she processes the recipes we send her and makes the food. Our chef works super fast, so fast that she can cook faster than she can read. So, we take copy of the recipes and put them into RAM. Remember that RAM is our computer's short-term memory. It stores information in a location our CPU can access faster than it could with our hard drive. Now we can give our chef one or two recipes at a time, instead of reciting the entire cookbook to her. Okay, now let's say I want to make a peanut butter and jelly sandwich. I see a pretty good recipe, and send it to our chef to make.
+     <br>
+     Remember that our chef needs these instructions quickly, so I don't send her the entire recipe, I send her one line at a time. 1, Get two slices of bread. 2, Put peanut butter on one slide. 3, Put jelly on another slice. 4, Combine the two slices of bread. Our chef can only communicate with us in ones and zeroes. So instead of sending something readable, like the recipe for a peanut butter and jelly sandwich, we have to send her something in binary.
+     <br><br>
+     In our computer, we have something called the External Data Bus or EDB. It's a row of wires that interconnect the parts of our computer, kind of the veins in our body. When you send a voltage to one of the wires, we say the state of the wire is on, or represented by a 1. If there's no voltage, then we say that the state is off, represented by a 0. This is how we send around our ones and zeroes. The EDB comes in different sizes, 8 bit, 16 bit, 32, even 64.
+     <br><br>
+     Inside the CPU there are components known as Registers. They let us store the data that our CPU works with. If for example, our CPU wanted to add two numbers, one number would be stored in a register a, another number would be stored in register b. The result of those two numbers would be stored in register c. Imagine the register is one of our chef's work tables. Since she has a place to work, she can start to cook. To do so she uses a translation book to translate her binary into tasks that she can perform.
+     <br>
+     Let's jump back for a second. Remember that our programs are copied into RAM for the CPU to read. RAM is memory that is randomly accessed, allowing our CPU to read from any part of RAM as quickly as any other part. We don't actually send data from RAM over the EDB. There would be way to much stuff. RAM can hold millions, even billions, of rows of data. Despite our sandwich example, most of our recipes aren't simple at all. There can be thousands of lines long. We want to process them and we don't actually go in any particular order. Since we can only send one line of data through the EDB at the time, we need the help of another component, the Memory Controller Chip or MCC. The MCC is a bridge between the CPU and the RAM. You can think of it, a nerve in your brain connecting to your memories. The CPU talks to the MCC, and says, hey, I need the instructions for step number three of this recipe. The MCC finds the instructions for step number three in RAM, grabs the data, and sends it through the EDB. There's another bus. There's nothing like a bus involved in the process called the Address bus. It connects the CPU to the MCC, and sends over the location of the data, but not the data itself. Then the MCC takes the address and looks for the data. And then data is then sent over the EDB.
+     <br>
+     RAM isn't the fastest way we can get more data to our CPU for processing. The CPU also uses something known as Cache. Cache is smaller than RAM, but it let's us store data that we use often, and let's us quickly reference it. Think of RAM like a refrigerator full of food. It's easy to get into, but it takes time to get something out. On the flip side of that, Cache is like the stuff we have in our pockets. It's used to store recently or frequently accessed data. There are three different cache levels in a CPU, L1, L2, and L3. L1 is the smallest and fastest cache.
+     <br><br>
+     So now we understand how our RAM interacts with our CPU. But how does our CPU know when the set of instruction ends, and a new one begins. Our CPU has an internal clock that keeps its operational in sync. It connects to a special wire called Clock wire. When you send or receive data, it sends a voltage to that clock wire to let the CPU know it can start doing calculations. Think of our clock wires as the ticking of a clock. For every tick, the CPU does one cycle of operations. When you send a voltage to the clock wire, it's referred to as a clock cycle. If you have lots of data you need to process in a command. You need to run lots of clock cycles.
+     <br>
+     Have you ever seen a CPU in the store and has something labeled 3.4ghz, this number refers to the Clock speed of the CPU. Which is a maximum number of clock cycles that it can handle in a set in a certain time period. 3.40 gigahertz is 3.4 billion cycles per second. That's super fast. But just because it can run at this speed, doesn't mean it does. It just means that it can't exceed this number. Still, there's a way you can exceed the number of clock cycles on your CPU on almost any device. It's referred to as Overclocking and it increases the rate of your CPU clock cycles in order to perform more tasks. This is commonly used to increase the performance in low-end CPUs.
+     </details>
+     
+     _Supplemental Reading_ on [CPU caches](https://en.wikipedia.org/wiki/CPU_cache)
+     
+     _Supplemental Reading_ on [Overclocking the CPU](https://www.digitaltrends.com/computing/how-to-overclock-your-cpu/3/)
+     
+- ## **Components**
 
 <br><br><br><br><br><br><br><br><br><br><br>
 # _Full Version Coming Soon_
