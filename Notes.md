@@ -100,11 +100,18 @@
      </details>
      
      <details><summary Computer Architecture Overview </summary>
+     <br>
+     A computer can be cut into four main layers, hardware, operating system, software, and users. The hardware layer is made up of the physical components of a computer. The operating system allows hardware to communicate with the system. The operating system allows them to be used with our system, regardless of where it came from. The software layer is how we as humans interact with our computers. The last layer may not seem like it's part of the system, but it's an essential layer of the computer architecture, the user. The user interacts with the computer and she can do more than that. She can operate, maintain, and even program the computer.
+     </details>
      
-
-
 ---
 
 ## Week2
+
+- ## **Digital Logic**
+
+     <details><summary> Computer Architecture </summary>
+     <br>
+
 <br><br><br><br><br><br><br><br><br><br><br>
 # _Full Version Coming Soon_
