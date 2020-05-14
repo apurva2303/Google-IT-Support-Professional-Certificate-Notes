@@ -114,7 +114,7 @@
      <br>
      Desktops are just computers that can fit on or under our desks. It has a monitor, a keyboard, a mouse, and a desktop(the CPU cabinet). Sometimes you might even add a webcam, speakers, or a printer set up. We'll call these physical components, hardware. Let's take a look at the back of the computer.
      
-![Common Ports](media/CPU%20back.png)
+     <img src="https://github.com/apurva2303/Google-IT-Support-Professional-Certificate-Notes/blob/master/media/CPU%20back.png?raw=true>
 
      </details>
 <><><><><><><><><>
