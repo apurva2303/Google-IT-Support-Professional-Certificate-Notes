@@ -99,7 +99,7 @@
      We use the concept of abstraction to take a relatively complex system and simplify it for our use. In computing, we use abstraction to make a very complex problem, like how to make computers work, easier to think about. We do that by breaking it apart into simpler ideas that describe single concepts or individual jobs that need to be done, and then stack them in layers. It's a fundamental concept in the computing world.
      </details>
      
-     <details><summary Computer Architecture Overview </summary>
+     <details><summary> Computer Architecture Overview </summary>
      <br>
      A computer can be cut into four main layers, hardware, operating system, software, and users. The hardware layer is made up of the physical components of a computer. The operating system allows hardware to communicate with the system. The operating system allows them to be used with our system, regardless of where it came from. The software layer is how we as humans interact with our computers. The last layer may not seem like it's part of the system, but it's an essential layer of the computer architecture, the user. The user interacts with the computer and she can do more than that. She can operate, maintain, and even program the computer.
      </details>
@@ -108,10 +108,29 @@
 
 ## Week2
 
-- ## **Digital Logic**
+- ## **The Modern Computer**
 
-     <details><summary> Computer Architecture </summary>
+     <details><summary> Introduction to Computer Hardware </summary>
      <br>
+     Desktops are just computers that can fit on or under our desks. It has a monitor, a keyboard, a mouse, and a desktop(the CPU cabinet). Sometimes you might even add a webcam, speakers, or a printer set up. We'll call these physical components, hardware. Let's take a look at the back of the computer.
+<><><><><><><><><>
+     You can see common connectors, the power outlet, and the common ports. Ports are connection points that we can connect devices to that extend the functionality of our computer. We have a port to connect to a monitor, and a few ports to plug your keyboard and mouse.
+Start transcript at 1 minute 35 seconds1:35
+There's another important one here for our network connection.
+Start transcript at 1 minute 40 seconds1:40
+With just these ports, we're able to have the basic functionality to browse the web and much more. Things look pretty similar in a laptop.
+Start transcript at 1 minute 48 seconds1:48
+Here are some of the same ports.
+Start transcript at 1 minute 52 seconds1:52
+A built-in monitor, And a keyboard.
+Start transcript at 1 minute 58 seconds1:58
+There are also physical components inside the laptop case that are hidden for portability. Once you figure out how one computer works, you can figure out how any other computer works. Okay, this is my favorite part. Let's open up this desktop and take a deeper look. Let me first clean up my desk.
+Start transcript at 2 minutes 22 seconds2:22
+Get ready for it.
+Start transcript at 2 minutes 25 seconds2:25
+Whoa, it looks pretty complicated, but that's okay. We'll take you through it. Let's start with a quick tour. Then we'll dive deeper into each of these parts in the next lesson. Right here, this component, it's a CPU or central processing unit, which is covered by this heat sink. You could think of the CPU as the brain of our computer. The CPU does all the calculations and data processing. It communicates pretty heavily with this component right here, RAM or Random Access Memory. RAM is our computer's short-term memory. We use this component when we want to store data temporarily. Like let's say, you're typing something into a chat or a piece of text in a word processor. This information is stored in the RAM. Don't worry, we'll cram in more details on RAM in the later lesson. When we want to store anything in long-term memory, we use this component here, the hard drive. The hard drive holds all of our data, which can include music, pictures, applications. Let me show you something else interesting. Have you noticed this large slab here? This is our motherboard.
+Start transcript at 3 minutes 38 seconds3:38
+It holds everything in place and lets our components communicate with each other. It's the foundation of our computer. You can think of the motherboard as the body or circulatory system of the computer that connects all the pieces together. The last component we'll talk about is our power supply, which converts electricity from our wall outlet onto a format that our computer can use. You know what's interesting? All these components make up most computers, even a mobile phone. While it might look very different from your laptop, a mobile phone just uses a smaller version of the hardware that we saw in the desktop and laptop today. So now that we've covered the basic anatomy of the computer, we'll go over each of these components in depths in the next few lessons. Understanding how computer hardware works is a really helpful skill set in IT support, since an IT department maintains the hardware that a company uses. A solid understanding of these computer internals will come in handy when troubleshooting hardware related problems, and taking things apart to see how they work is just super fine.
 
 <br><br><br><br><br><br><br><br><br><br><br>
 # _Full Version Coming Soon_
