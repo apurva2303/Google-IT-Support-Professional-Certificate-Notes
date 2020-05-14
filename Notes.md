@@ -96,12 +96,15 @@
 
      <details><summary> Abstraction </summary>
      <br>
-     We use the concept of abstraction to take a relatively complex system and simplify it for our use. In computing, we use abstraction to make a very complex problem, like how to make computers work, easier to think about. We do that by breaking it apart into simpler ideas that describe single concepts or individual jobs that need to be done, and then stack them in layers. This concept of abstraction will be used throughout this entire course. It's a fundamental concept in the computing world. One other simple example of abstraction in an IT role that you might see a lot is an error message. We don't have to dig through someone else's code and find a bug. This has been abstracted out for us already in the form of an error message. A simple error message like file not found actually tells us a lot of information and saves us time to figure out a solution. Can you imagine if instead of abstracting an error message our computer did nothing and we had no clue where to start looking for answers? Abstraction helps us in many ways that we don't even realize.
- 
+     We use the concept of abstraction to take a relatively complex system and simplify it for our use. In computing, we use abstraction to make a very complex problem, like how to make computers work, easier to think about. We do that by breaking it apart into simpler ideas that describe single concepts or individual jobs that need to be done, and then stack them in layers. It's a fundamental concept in the computing world.
+     </details>
+     
+     <details><summary Computer Architecture Overview </summary>
+     
+
+
 ---
 
 ## Week2
-     
-     
-     <br><br><br><br><br><br><br><br><br><br><br>
-     # _Full Version Coming Soon_
+<br><br><br><br><br><br><br><br><br><br><br>
+# _Full Version Coming Soon_
