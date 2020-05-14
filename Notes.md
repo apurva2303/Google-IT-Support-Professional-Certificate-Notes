@@ -114,6 +114,7 @@
      <br>
      Desktops are just computers that can fit on or under our desks. It has a monitor, a keyboard, a mouse, and a desktop(the CPU cabinet). Sometimes you might even add a webcam, speakers, or a printer set up. We'll call these physical components, hardware. Let's take a look at the back of the computer.
      ![Common ports on a desktop](media/CPU back.png)
+     </details>
 <><><><><><><><><>
      You can see common connectors, the power outlet, and the common ports. Ports are connection points that we can connect devices to that extend the functionality of our computer. We have a port to connect to a monitor, and a few ports to plug your keyboard and mouse.
 Start transcript at 1 minute 35 seconds1:35
