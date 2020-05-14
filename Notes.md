@@ -84,8 +84,19 @@
      _Supplemental Reading_ on [Logic Gates](https://simple.wikipedia.org/wiki/Logic_gate)
      
      <details><summary> How to Count in Binary </summary>
+     <br>
+     (For better understanding, watch [How to count in binary](https://www.youtube.com/watch?v=puaaRoWL-Ec)
+     <br><br>
+     Binary is the fundamental communication block of computers, but it's used to represent more than just text and images. It's used in many aspects of computing like computer networking. The binary system is how our computers count using ones and zeros, but humans don't count like that. When you were a child, you may have counted using ten fingers on your hand. That innate counting system is called the decimal form or base-10 system. In the decimal system, there are 10 possible numbers you can use ranging from zero to nine. When we count binary, which only uses zero and one, we convert it to a system that we can understand, decimal. 330, 250, 2, 40, 4 million, they're all decimal numbers.
+     <br><br>
+     Let's consider these numbers: 128, 64, 32, 16, 8, 4, 2, and 1. What patterns do you see? Hopefully, you'll see that each number is a double of the previous number going right to left. What happens if you add them all up? You get 255. That's kind of weird. I thought we could have 256 values for a byte. Well, we do. The zero is counted as a value, so the maximum decimal number you can have is 255.
+     </details>
      
-     
+- ## **Computer Architecture Layer**
+
+     <details><summary> Abstraction </summary>
+     <br>
+     We use the concept of abstraction to take a relatively complex system and simplify it for our use. In computing, we use abstraction to make a very complex problem, like how to make computers work, easier to think about. We do that by breaking it apart into simpler ideas that describe single concepts or individual jobs that need to be done, and then stack them in layers. This concept of abstraction will be used throughout this entire course. It's a fundamental concept in the computing world. One other simple example of abstraction in an IT role that you might see a lot is an error message. We don't have to dig through someone else's code and find a bug. This has been abstracted out for us already in the form of an error message. A simple error message like file not found actually tells us a lot of information and saves us time to figure out a solution. Can you imagine if instead of abstracting an error message our computer did nothing and we had no clue where to start looking for answers? Abstraction helps us in many ways that we don't even realize.
  
 ---
 
